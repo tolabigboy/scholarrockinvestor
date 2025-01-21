@@ -5843,7 +5843,7 @@ var ExitBoxSettings = {
   activate_custom_content: "on",
   apply_to_all_offsite_links: "",
   jquery_selector_field:
-    'a[href*="//"]:not([href*="scholarrock.wpengine.com"],[href*="investors.https://scholarrock.vercel.app"],[href*="jobs.lever.co/scholarrock"],[href*="scholar.local:8093"],[href*="scholarrock.gcs-web.com"],[href^="5563639.nasdaq.acsitefactory.com"],[href^="https://https://scholarrock.vercel.app/"])',
+    'a[href*="//"]:not([href*="scholarrock.wpengine.com"],[href*="investors.https://scholarrock.vercel.app"],[href*="jobs.lever.co/scholarrock"],[href*="scholar.local:8093"],[href*="scholarrock.gcs-web.com"],[href^="5563639.nasdaq.acsitefactory.com"],[href^="https://https://www.scholarrock.co/"])',
   new_window: "",
   css_exclusion_class: "noExitNotifier",
   relnofollow: "",
